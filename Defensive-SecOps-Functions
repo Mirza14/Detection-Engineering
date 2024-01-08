@@ -1,0 +1,17 @@
+There are 4 major functions in Security Operations:
+
+1. Threat Intelligence:
+Processes Indicators of Compromises (IoCs).
+Analyzes industry trends in the market, threat actors activity, and targeted attacks.
+
+2. Threat Hunting:
+It's a proactive work. Looks for bad/malicious activity already present in the envrionment.
+Discovers visibility or tooling gaps, policies, bad practices within the envrionment.
+
+3. Detection Engineering:
+Creates custom alerts for the Incident Response/SOC team. Considering IR/SOC as a customer.
+Created unit tests to confirm working detections and capabilities.
+
+4. Incident Response:
+Responds to OOB Vendor based alerts (Ex: Microsoft Defender, CrowdStrike Falcon, etc.,) and custom alerts from DE.
+Collaborate and provide feedback to other functions in SecOps.
